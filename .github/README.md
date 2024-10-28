@@ -11,7 +11,7 @@
 <a href="https://github.com/BABY-MUSIC/JAZZY/network/members"> <img src="https://img.shields.io/github/forks/BABY-MUSIC/JAZZY?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/BABY-MUSIC/JAZZY/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/BABY-MUSIC/JAZZY/commits/BABY-MUSIC"> <img src="https://img.shields.io/github/last-commit/BABY-MUSIC/JAZZY?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/GARIB-CODERS/SPOTIFY_MUSIC"> <img src="https://img.shields.io/github/last-commit/BABY-MUSIC/JAZZY?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
